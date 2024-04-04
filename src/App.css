@@ -13,7 +13,7 @@
   height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
 .services {
@@ -22,7 +22,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
 }
 
 .products {
@@ -31,7 +30,6 @@
   background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
 }
 
 .sign-up {
@@ -40,5 +38,4 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
 }

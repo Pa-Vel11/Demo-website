@@ -22,20 +22,20 @@ function Card() {
             />
             <CardItems
               src="images/img-1.jpg"
-              text="Prywatny kurs na wyspe Bali"
-              label="Luksus"
+              text="Wyprawa po górach"
+              label="Wycieczka"
               path="/serwis"
             />
             <CardItems
               src="images/img-3.jpg"
-              text="Prywatny kurs na wyspe Bali"
-              label="Luksus"
+              text="Pływanie jachtem"
+              label="Przygoda"
               path="/serwis"
             />
             <CardItems
               src="images/img-4.jpg"
-              text="Prywatny kurs na wyspe Bali"
-              label="Luksus"
+              text="Piłka nożna na wyspie"
+              label="Przygoda"
               path="/serwis"
             />
           </ul>

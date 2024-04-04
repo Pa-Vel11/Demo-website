@@ -1,10 +1,10 @@
 .cards {
-  padding: 4rem;
   background: #fff;
 }
 
 h1 {
   text-align: center;
+  padding-top: 4rem;
 }
 
 .cards__container {
@@ -24,6 +24,10 @@ h1 {
 
 .cards__items {
   margin-bottom: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
 
 .cards__item {
@@ -93,6 +97,7 @@ h1 {
 
 .cards__item__info {
   padding: 20px 30px 30px;
+  text-align: center;
 }
 
 .cards__item__text {
@@ -104,15 +109,6 @@ h1 {
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
     width: 84%;
-  }
-}
-
-@media only screen and (min-width: 1024px) {
-  .cards__items {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
   }
 }
 

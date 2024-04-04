@@ -86,8 +86,8 @@
     flex-direction: column;
     width: 100%;
     height: 90vh;
-    position: absolute;
-    top: 80px;
+    position: fixed;
+    bottom: 0;
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
@@ -101,11 +101,17 @@
     z-index: 1;
   }
 
+  .nav-item {
+    padding-bottom: 8rem;
+  }
+
   .nav-links {
     text-align: center;
     padding: 2rem;
     width: 100%;
     display: table;
+    display: flex;
+    justify-content: center;
   }
 
   .nav-links:hover {
