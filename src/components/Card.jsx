@@ -21,19 +21,19 @@ function Card() {
               path="/serwis"
             />
             <CardItems
-              src="images/img-2.jpg"
+              src="images/img-1.jpg"
               text="Prywatny kurs na wyspe Bali"
               label="Luksus"
               path="/serwis"
             />
             <CardItems
-              src="images/img-2.jpg"
+              src="images/img-3.jpg"
               text="Prywatny kurs na wyspe Bali"
               label="Luksus"
               path="/serwis"
             />
             <CardItems
-              src="images/img-2.jpg"
+              src="images/img-4.jpg"
               text="Prywatny kurs na wyspe Bali"
               label="Luksus"
               path="/serwis"
